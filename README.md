@@ -9,6 +9,10 @@
   </p>
 
   <p>
+    M.Eng. in Electronic Information from Harbin Engineering University | Full-Stack Engineer <a href="https://github.com/bytedance"><strong>@ByteDance</strong></a>
+  </p>
+
+  <p>
     <code>💼 ByteDance · Global E-Commerce</code>
     <code>📍 Shanghai, China</code>
   </p>
