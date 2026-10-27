@@ -51,15 +51,6 @@
 </tr>
 </table>
 
-#### 🔍 Selected Engineering Work
-
-> Professional engineering experience (project source code is proprietary).
-
-- **Agent-assisted troubleshooting** — Adapted an OpenCode-based agent workflow and integrated tracing to support on-call investigation.
-- **Case platform & configurable UI** — Worked on model-driven interfaces and React extensions for complex governance workflows.
-- **Account security & identity verification** — Engineering work spanning Go back-end services and front-end verification capabilities.
-- **Go full-stack delivery** — Built business-facing features across APIs and UI integration.
-
 #### 🛠 Tech Stack
 
 <p>
