@@ -47,13 +47,6 @@
 </tr>
 </table>
 
-#### 🚀 Selected Engineering Work
-
-- **Case Oncall Agent** — Extended an OpenCode-based agent implementation with tracing to support case investigation and troubleshooting.
-- **Account Security & Identity Verification** — Working across Go back-end services and identity verification front-end capabilities.
-- **PBR Full-Stack Development** — Delivered business features with Go services and front-end integration.
-- **Case Platform & Low-Code** — Built model-driven case-debugging interfaces with configurable page generation and custom React components.
-
 #### 🛠 Tech Stack
 
 <p>
