@@ -23,10 +23,6 @@
 **ByteDance** — `Global E-Commerce · Platform Governance`  
 `2024.07 – Present`
 
-- **Go Back-End / Full-Stack** — Account Security & PBR
-- **AI Agent Engineering** — Case Oncall Agent
-- **Front-End Engineering** — Case Platform, Identity Verification SDK
-
 #### 🌱 Internship Experience
 
 **Alibaba · Fliggy** — `Front-End Engineering Intern`
